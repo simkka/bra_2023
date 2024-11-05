@@ -16,5 +16,7 @@ Furthermore, we introduced the height function that displays the number of parti
 
 Join us on this analytical journey where theory meets code and modelling reveals the operational principles driving traffic dynamics.
 
+[Link to the paper & animations](https://drive.google.com/drive/folders/1MqcAtL19Wt9xqeH6J8HoaSr0WxKJ3tFM)
+
 
 ![alt text](image.png)
